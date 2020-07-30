@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+UDEMY - MODERN REACT WITH REDUC 2020 UPDATED COURSE CODE
 
 ## Available Scripts
 
